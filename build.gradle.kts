@@ -9,5 +9,5 @@ typst {
 			documents = listOf("resume")
 		}
 	}
-	version = "v0.14.2"
+	version = "v0.15.1"
 }
